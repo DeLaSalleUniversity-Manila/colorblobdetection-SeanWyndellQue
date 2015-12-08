@@ -1,3 +1,3 @@
 # colorblobdetection-SeanWyndellQue
 
-![screenshot](screenshot1)
+![screenshot](screenshot1.png)
